@@ -1,0 +1,2 @@
+flexbox:
+writing-mode -> pozwala na obrócenie wszystkich dzieci w kontenerze (na przykład napisanie tekstu obróconego o 90* z lewej do prawej)
